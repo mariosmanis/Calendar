@@ -1,0 +1,87 @@
+<resources>
+    <!-- Sign up -->
+    <string name="app_name">My Calendar</string>
+    <string name="signup_title">Join Us !</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_username">Username</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="signup_button_label">Already have an account?</string>
+    <string name="signup_button_link">Log In</string>
+    <string name="signup_email_error">Please enter your email</string>
+    <string name="signup_username_error">Please enter your username</string>
+    <string name="signup_password_error">Please enter your password</string>
+    <string name="signup_password_length_error">Password must be at least 6 characters long</string>
+    <string name="signup_welcome_message">Welcome!</string>
+    <string name="signup_error_message">Wrong credentials.Please try again</string>
+
+    <!-- Login -->
+    <string name="login_app_name">My Calendar</string>
+    <string name="login_title">Welcome Back !</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_button_label">Don\'t have an account?</string>
+    <string name="login_fingerprint">Login via fingerprint</string>
+    <string name="login_button_link">Join us now</string>
+    <string name="login_email_error">Please enter your email</string>
+    <string name="login_password_error">Please enter your password</string>
+    <string name="login_welcome_message">Welcome back !</string>
+    <string name="login_error_message">Wrong credentials. Please try again!</string>
+    <string name="login_error_message_fingerprint">Authentication failed</string>
+    <string name="login_message_fingerprint_title">Biometric login for my app</string>
+    <string name="login_message_fingerprint_">Log in using your biometric credential</string>
+    <string name="login_message_fingerprint_password">Use account password</string>
+    <string name="fingerprint_dialog_touch_sensor"></string>
+    <string name="fingerprint_not_recognized"></string>
+    <string name="no_internet_available">No Internet connection available</string>
+
+    <!-- Calendar -->
+    <string name="app_name_calendar">My Calendar</string>
+    <string name="event_calendar">No events</string>
+
+    <!-- Event adapter -->
+    <string name="event_adapter_title">Title</string>
+    <string name="event_adapter_start_hour">Start Hour</string>
+    <string name="event_adapter_end_hour">End Hour</string>
+    <string name="event_adapter_members">Members</string>
+    <string name="event_adapter_creator">Creator</string>
+    <string name="event_cannot_delete">Only creator can access this feature</string>
+
+    <!-- Add event -->
+    <string name="add_event_title">Title*</string>
+    <string name="add_event_start_hour">Start Hour*</string>
+    <string name="add_event_end_hour">End Hour</string>
+    <string name="add_event_location">Location</string>
+    <string name="add_event_members">Members</string>
+    <string name="add_event_creator">Creator*</string>
+    <string name="add_event_comments">Comments</string>
+    <string name="add_event_add_members">Add members (optional)</string>
+    <string name="add_event_button">Add event</string>
+    <string name="edit_event_button">Edit event</string>
+    <string name="location_event_button">Use current location</string>
+    <string name="add_event_title_error">Please enter a title to your event</string>
+    <string name="add_event_start_hour_error">Please select hour</string>
+    <string name="add_event_select_members_cancel">Cancel</string>
+    <string name="add_event_select_members_clear">Clear All</string>
+    <string name="add_event_select_members_title">Select members</string>
+    <string name="add_event_success_language">Event has been added</string>
+    <string name="add_event_success_loc">Location added</string>
+
+
+    <!-- Εdit event -->
+    <string name="edit_event_success_message">Event successfully edited</string>
+    <string name="edit_event_error_message">Something went wrong...</string>
+    <string name="edit_event_status">Status</string>
+    <string name="edit_event_status_selection">Select status</string>
+    <string name="add_event_select_status"></string>
+
+    <!-- Delete event -->
+    <string name="delete_event_success_message">Event successfully removed</string>
+    <string name="delete_event_error_message">Something went wrong...</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="edit_location_event_button">View location</string>
+
+
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sign up -->
+    <string name="app_name">Το Ημερολόγιο μου</string>
+    <string name="signup_title">Γίνε μέλος !</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_username">Όνομα χρήστη</string>
+    <string name="signup_password">Κωδικός</string>
+    <string name="signup_button">ΔΗΜΙΟΥΡΓΙΑ ΛΟΓΑΡΙΑΣΜΟΥ</string>
+    <string name="signup_button_label">Έχεις ήδη λογαριασμό;</string>
+    <string name="signup_button_link">Σύνδεση</string>
+    <string name="signup_email_error">Προσθέστε το email σας</string>
+    <string name="signup_username_error">Προσθέστε όνομα χρήστη</string>
+    <string name="signup_password_error">Προσθέστε κωδικό</string>
+    <string name="signup_password_length_error">Ο κωδικός πρέπει να έχει τουλάχιστον 6 χαρακτήρες</string>
+    <string name="signup_welcome_message">Καλώς ήρθατε!</string>
+    <string name="signup_error_message">Λάθος στοιχεία σύνδεσης. Πρακαλώ δοκιμάστε ξανά</string>
+
+    <!-- Login -->
+    <string name="login_app_name">Το Ημερολόγιο μου</string>
+    <string name="login_title">Καλώς ήρθατε !</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Κωδικός</string>
+    <string name="login_button">ΣΥΝΔΕΣΗ</string>
+    <string name="login_button_label">Δεν έχεις λογαριασμό;</string>
+    <string name="login_button_link">Δημιουργία λογαριασμού</string>
+    <string name="login_email_error">Προσθέστε το email σας</string>
+    <string name="login_password_error">Προσθέστε κωδικό</string>
+    <string name="login_welcome_message">Καλώς ήρθατε!</string>
+    <string name="login_error_message">Λάθος στοιχεία σύνδεσης. Πρακαλώ δοκιμάστε ξανά</string>
+    <string name="login_fingerprint">Σύνδεση με δαχτυλικό αποτύπωμα</string>
+    <string name="login_error_message_fingerprint">Αδυναμία ταυτοποίησης</string>
+    <string name="login_message_fingerprint_title">Βιομετρική σύνδεση</string>
+    <string name="login_message_fingerprint_">Σύνδεση με τη χρήση βιομετρικών δεδομένων</string>
+    <string name="login_message_fingerprint_password">Χρησιμοποίήστε τον κωδικό σύνδεσής σας</string>
+    <string name="fingerprint_not_recognized"></string>
+    <string name="fingerprint_dialog_touch_sensor">Ακουμπήστε τον αισθητήρα δαχ. αποτ.</string>
+    <string name="no_internet_available">Δεν υπάρχει διαθέσιμη σύνδεση διαδικτύου</string>
+
+    <!-- Calendar -->
+    <string name="app_name_calendar">Το Ημερολόγιο μου</string>
+    <string name="event_calendar">Δεν υπάρχουν καταχωρημένα γεγονότα</string>
+
+    <!-- Event adapter -->
+    <string name="event_adapter_title">Τίτλος</string>
+    <string name="event_adapter_start_hour">Ώρα έναρξης</string>
+    <string name="event_adapter_end_hour">Ώρα περάτωσης</string>
+    <string name="event_adapter_members">Συμμετέχοντες</string>
+    <string name="event_adapter_creator">Δημιουργός</string>
+    <string name="event_cannot_delete">Μόνο ο δημιουργός έχει πρόσβαση σε αυτή την δυνατότητα</string>
+
+    <!-- Add event -->
+    <string name="add_event_title">Τίτλος*</string>
+    <string name="add_event_start_hour">Ώρα έναρξης*</string>
+    <string name="add_event_end_hour">Ώρα περάτωσης</string>
+    <string name="add_event_location">Τοποθεσία</string>
+    <string name="add_event_members">Συμμετέχοντες</string>
+    <string name="add_event_creator">Δημιουργός</string>
+    <string name="add_event_comments">Σχόλια</string>
+    <string name="add_event_add_members">Προσθήκη συμμετεχόντων(προαιρετικό)</string>
+    <string name="add_event_button">Προσθηκη</string>
+    <string name="edit_event_button">Επεξεργασια</string>
+    <string name="location_event_button">Χρηση τρεχ. τοποθ.</string>
+    <string name="add_event_title_error">Προσθέστε τίτλο στο γεγονός</string>
+    <string name="add_event_start_hour_error">Προσθέστε ώρα έναρξης γεγονότος</string>
+    <string name="add_event_select_members_cancel">Ακύρωση</string>
+    <string name="add_event_select_members_clear">Καθαρισμός πεδίων</string>
+    <string name="add_event_select_members_title">Επιλογή συμμετεχόντων</string>
+    <string name="add_event_success_language">Επιτυχής προσθήκη γεγονότος</string>
+    <string name="add_event_success_loc">Επιτυχής προσθήκη τοποθεσίας</string>
+
+
+    <!-- Εdit event -->
+    <string name="edit_event_success_message">Επιτυχής ενημέρωση γεγονότος</string>
+    <string name="edit_event_error_message">Αδυναμία ενημέρωση γεγονότος</string>
+    <string name="add_event_select_status">Ενημερώστε την κατάστασή σας</string>
+    <string name="edit_event_status">Κατάσταση</string>
+    <string name="edit_event_status_selection">Επιλογή κατάστασης</string>
+    <string name="title_activity_maps">Χάρτης</string>
+
+    <!-- Delete event -->
+    <string name="delete_event_success_message">Επιτυχής διαγραφή γεγονότος</string>
+    <string name="delete_event_error_message">Αδυναμία διαγραφής γεγονότος</string>
+
+    <string name="edit_location_event_button">Προβολη τοποθεσιας</string>
+
+
+</resources>

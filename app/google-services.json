@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814461971783",
+    "project_id": "callendar-19e96",
+    "storage_bucket": "callendar-19e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814461971783:android:6ccd0f647ad65a5a493062",
+        "android_client_info": {
+          "package_name": "com.unipi.p18240.callendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814461971783-34frgpe9snmt0i80kkfvnm62snmtic1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBewIztvb59CS_m5FVfAUSrDq_5S9a5tkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814461971783-34frgpe9snmt0i80kkfvnm62snmtic1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
